@@ -2,10 +2,12 @@ This project is a Netflix Clone built using modern web technologies. It replicat
 
 The project utilizes the following technologies:
 
-React.js for the frontend, providing a dynamic and interactive user experience.
-Firebase for authentication and backend services, ensuring secure user management.
-TMDb API for fetching movie data, giving users access to a vast collection of films and series.
-CSS3 for styling, ensuring a responsive and sleek design across all devices.
+Key technologies used:
+
+React for building a dynamic and responsive user interface.
+Redux Toolkit for state management, ensuring smooth and predictable application behavior.
+Node.js and Express for creating a secure and efficient backend.
+MongoDB for handling data storage, allowing for flexible and scalable data management.
 
 ![image](https://github.com/user-attachments/assets/73250bac-9591-4600-b6b2-37ee0ede1915)
 ![image](https://github.com/user-attachments/assets/06b2b06d-8fdb-4262-9816-cdaf78f1487b)
